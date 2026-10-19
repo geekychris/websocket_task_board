@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Websocket Task Board logo" width="180">
+</p>
+
 # Sticky Board - Project Management Board Application
 
 A real-time collaborative project management board application inspired by Trello, built with Spring Boot and React.
